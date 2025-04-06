@@ -1,8 +1,8 @@
 <h1 align="center">David Rodrigues</h1>
 
 <p align="center">
-  <i>"A sabedoria começa na dúvida." — Sócrates</i><br>
-  <i>"Quem combate monstros deve cuidar para não se tornar um deles." — Nietzsche</i>
+  <i>"O homem é uma corda estendida entre o animal e o super-homem — uma corda sobre um abismo." — Nietzsche</i><br>
+  <i>"A sabedoria começa na dúvida." — Sócrates</i>
 </p>
 
 ---
@@ -12,8 +12,9 @@
 Sou movido por desafios e não recuo diante do desconhecido.  
 Cada linha de código que escrevo carrega a essência de alguém que se recusa a ser comum.
 
-Entendo que a jornada é longa, mas tenho algo que não se ensina: **resiliência**.  
-Não estou apenas aprendendo programação. Estou forjando algo mais profundo: **visão crítica, disciplina e consistência**.
+A jornada é longa, mas carrego algo que não se ensina: **resiliência**.  
+Mais do que aprender programação, estou forjando algo maior:  
+**visão crítica**, **disciplina** e **consistência**.
 
 ---
 
@@ -22,9 +23,10 @@ Não estou apenas aprendendo programação. Estou forjando algo mais profundo: *
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
