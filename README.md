@@ -44,7 +44,7 @@ Mais do que aprender programação, estou forjando algo maior:
 ### 🧭 Onde me encontrar
 
 - 📂 GitHub: [github.com/odavid062](https://github.com/odavid062)
-- 🔗 LinkedIn: [David Rodrigues](https://www.linkedin.com/in/david-rodrigues-00b988214)
+- 🔗 LinkedIn: www.linkedin.com/in/david-rodrigues-00b988214
 
 
 <p align="center">
