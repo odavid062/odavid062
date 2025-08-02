@@ -1,8 +1,7 @@
 <h1 align="center">David Rodrigues</h1>
 
 <p align="center">
-  <i>"O homem é uma corda estendida entre o animal e o super-homem — uma corda sobre um abismo." — Nietzsche</i><br>
-  <i>"A sabedoria começa na dúvida." — Sócrates</i>
+
 </p>
 
 ---
