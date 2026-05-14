@@ -61,6 +61,7 @@ Estou forjando mais do que código: **visão crítica**, **disciplina** e **cons
 | [Sistema Bancário — Design Patterns](https://github.com/odavid062/sistema-bancario-padroes-chain-proxy-facade) | Java · Spring Boot · Chain/Proxy/Facade | API REST com 3 padrões de projeto: Chain of Responsibility, Proxy e Facade |
 | [Observer de Preços](https://github.com/odavid062/Padrao-Observer-) | React · Spring Boot | Padrão Observer com notificações via callback HTTP |
 | [Book Register](https://github.com/odavid062/book-register-) | Angular · Spring Boot · PostgreSQL · CI/CD | CRUD de livros com pipeline GitHub Actions |
+| [Calisthenics](https://github.com/odavid062/Calisthenics) | Java · Spring Boot · Value Objects | API demonstrando os 9 princípios de Object Calisthenics |
 
 ---
 
