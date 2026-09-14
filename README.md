@@ -33,9 +33,9 @@ Utilizo a inteligência artificial como ferramenta de apoio ao desenvolvimento e
 **IA e automação**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Agentes_de_IA-111827?style=for-the-badge\&logo=probot\&logoColor=white)
-![APIs](https://img.shields.io/badge/Integração_de_APIs-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-111827?style=for-the-badge\&logo=probot\&logoColor=white)
+![Integração de APIs](https://img.shields.io/badge/Integração_de_APIs-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 **Backend**
 
@@ -83,15 +83,6 @@ Utilizo a inteligência artificial como ferramenta de apoio ao desenvolvimento e
 
 * **Criate Tecnologia em Marketing e Vendas** — Desenvolvedor Júnior de Aplicações e Automações · abril de 2026 – atual
 * **Offworks Automação** — Suporte Técnico · abril de 2025 – abril de 2026
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odavid062&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odavid062&layout=compact&theme=radical" width="49%" />
-</p>
 
 ---
 
