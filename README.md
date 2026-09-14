@@ -1,7 +1,7 @@
 <h1 align="center">David Rodrigues</h1>
 
 <p align="center">
-  Software & AI Engineer Júnior · Aplicações Web · Inteligência Artificial · Automação
+  Desenvolvedor Júnior de Aplicações e Automações · IA aplicada
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Utilizo a inteligência artificial como ferramenta de apoio ao desenvolvimento e
 
 | Projeto                                                                                                        | Stack                                                | Status                                   |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------- |
-| [ProvaLab](https://github.com/odavid062/ProvaLab)                                                              | React · TypeScript · Express · Supabase · PostgreSQL | Em desenvolvimento · Repositório privado |
+| ProvaLab                                                              | React · TypeScript · Express · Supabase · PostgreSQL | Em desenvolvimento · Repositório privado |
 | [Book Register](https://github.com/odavid062/book-register-)                                                   | Angular · Spring Boot · PostgreSQL · Docker          | Projeto de estudo                        |
 | [CoffeeWorld](https://github.com/odavid062/CoffeeWorldPJ)                                                      | Angular · Spring Boot · PostgreSQL · Docker          | Projeto de estudo                        |
 | [Sistema Bancário — Design Patterns](https://github.com/odavid062/sistema-bancario-padroes-chain-proxy-facade) | Java · Spring Boot · Chain · Proxy · Facade          | Projeto de estudo                        |
